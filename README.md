@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferhat</h1>
-<h3 align="center">I work with passion and determination to become a talented backend developer.</h3>
+<h3 align="center">I work with passion and determination to become a backend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhatfirat&label=Profile%20views&color=0e75b6&style=flat" alt="ferhatfirat" /> </p>
 
